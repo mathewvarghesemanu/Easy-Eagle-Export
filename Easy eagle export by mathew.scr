@@ -1,0 +1,6 @@
+Display none
+display Top
+display pad
+display via
+SET PAD_NAMES OFF
+EXPORT IMAGE 2.png MONOCHROME WINDOW 1500;
